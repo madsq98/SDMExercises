@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDMExercises", "SDMExercises\SDMExercises.csproj", "{CA713294-B090-4262-9B3C-397FC1F375F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDMTests", "SDMTests\SDMTests.csproj", "{06DC28BA-28DA-4DB6-84B6-157A6D9775BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA713294-B090-4262-9B3C-397FC1F375F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA713294-B090-4262-9B3C-397FC1F375F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA713294-B090-4262-9B3C-397FC1F375F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA713294-B090-4262-9B3C-397FC1F375F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DC28BA-28DA-4DB6-84B6-157A6D9775BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DC28BA-28DA-4DB6-84B6-157A6D9775BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DC28BA-28DA-4DB6-84B6-157A6D9775BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DC28BA-28DA-4DB6-84B6-157A6D9775BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
